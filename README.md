@@ -9,13 +9,16 @@ Eros:
 <br>
 3  |  X
 <br>
-5  |  X
-<br>
 <br>
 Daniel:
 <br>
 2  |  X
 <br>
 4  |  X
+<br>
+<br>
+Leo
+<br>
+5  |  X
 <br>
 6  |  X
