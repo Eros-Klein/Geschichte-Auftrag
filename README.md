@@ -7,7 +7,7 @@ Eros:
 <br>
 1  |  X
 <br>
-3  |  X
+3  |  :)
 <br>
 <br>
 Daniel:
