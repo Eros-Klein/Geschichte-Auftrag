@@ -5,7 +5,7 @@ Repository um alle Aufgaben unseres GS-Arbeitsauftrags zu sammeln
 <br>
 Eros:
 <br>
-1  |  X
+1  |  :)
 <br>
 3  |  :)
 <br>
