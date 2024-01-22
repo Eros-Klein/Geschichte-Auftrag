@@ -19,6 +19,6 @@ Daniel:
 <br>
 Leo
 <br>
-5  |  X
+5  |  :)
 <br>
 6  |  X
