@@ -1,6 +1,7 @@
-1. ja, aber nicht in diesem ausmaß. Die Natur "produziert" sehr viel CO2,
-jedoch ist das ein Kreislauf -> heißt die Natur "kümmert" sich auch wieder 
-um dieses CO2 
+# Aufgabe 6
+
+1. ja, aber nicht in diesem ausmaß. Die Natur "produziert" sehr viel CO2, jedoch ist das ein Kreislauf -> 
+heißt die Natur "kümmert" sich auch wieder um dieses CO2 
 
 2. Ja, aber die Sonne ist eine Konstante, wir können die nicht verändern
 (die sonne nicht wirklich eigentlich die Schicht aus CO2)
